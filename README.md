@@ -13,3 +13,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renanmatiasc-tech&show_icons=true&theme=dark&title_color=0062ff&text_color=ff0000&bg_color=000000&hide_border=true&locale=en" alt="renanmatiasc-tech" /></p>
 
 <img width="192" height="176" alt="image" src="https://github.com/user-attachments/assets/d119832f-5e7e-4a02-ab19-2b6a0c655318" />
+
+<img width="180" height="175" alt="image" src="https://github.com/user-attachments/assets/e36ebe10-73e4-4220-8550-2f7440408155" />
