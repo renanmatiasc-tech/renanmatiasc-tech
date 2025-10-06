@@ -12,4 +12,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renanmatiasc-tech&show_icons=true&theme=dark&title_color=0062ff&text_color=ff0000&bg_color=000000&hide_border=true&locale=en" alt="renanmatiasc-tech" /></p>
 
-<img width="201" height="188" alt="image" src="https://github.com/user-attachments/assets/8f71125b-77f8-498d-870a-90f95cb598b1" />
+<img width="192" height="176" alt="image" src="https://github.com/user-attachments/assets/d119832f-5e7e-4a02-ab19-2b6a0c655318" />
