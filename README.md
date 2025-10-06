@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Renan</h1>
-<h3 align="center">é um repositório criado em aula para testar e realizar comits</h3>
+<h3 align="center">CURSANDO PROGRAMAÇÃO DE JOGOS NO SENAI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=renanmatiasc-tech&label=GULOSOS&color=000000&style=flat" alt="renanmatiasc-tech" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=renanmatiasc-tech&label=LINDOS&color=000000&style=flat" alt="renanmatiasc-tech" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
